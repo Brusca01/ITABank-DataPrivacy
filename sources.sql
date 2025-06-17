@@ -2397,3 +2397,5 @@ GRANT SELECT ON AUDIT_LOG TO paolo_de_luca
 GRANT SELECT ON AUDIT_LOG TO francesco_ricci
 GRANT SELECT ON AUDIT_LOG TO martina_ferrari
 GRANT SELECT ON AUDIT_LOG TO alessandro_romano
+
+
